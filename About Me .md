@@ -4,6 +4,8 @@ I'm passionate about leveraging data to drive insights and optimize business per
 My expertise lies in conducting comprehensive data validation, analysis, and visualization using SQL, Advanced Excel, and Power BI. 
 Through these tools, I delve deep into datasets, uncovering patterns and trends that help businesses make informed decisions.
 
+LinkedIn: https://www.linkedin.com/in/sai-deepak-powerbi-developer-a697638b/
+
 Here's what I bring to the table:
 
 🔍 Keen Observation: I have a knack for spotting hidden insights within datasets, allowing me to extract valuable information that drives strategic initiatives.
@@ -19,6 +21,10 @@ My Mission: To harness my skills and knowledge in data analysis to tackle real-w
 I'm committed to continuous learning and growth, always seeking to expand my expertise and stay ahead in the dynamic field of data analytics.
 
 Let's connect and explore how we can leverage the power of data to drive meaningful outcomes together! 🚀
+
+I aim to leverage my skills and knowledge to solve real-world problems and create value through data. Looking to work in a challenging and creative environment, I focus on achieving career growth through continuous learning and staying competitive in the ever-evolving data landscape.
+
+Skills: SQL, Power BI, Excel, Data Analysis, Business Development, Visualization, Presentation, Storytelling
 
 
 <!---
