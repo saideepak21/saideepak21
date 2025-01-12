@@ -24,7 +24,7 @@ Let's connect and explore how we can leverage the power of data to drive meaning
 
 I aim to leverage my skills and knowledge to solve real-world problems and create value through data. Looking to work in a challenging and creative environment, I focus on achieving career growth through continuous learning and staying competitive in the ever-evolving data landscape.
 
-Skills: SQL, Power BI, Excel, Data Analysis, Business Development, Visualization, Presentation, Storytelling
+Skills: SQL, Power BI, Excel, Data Analysis, Business Development, Visualization, Presentation, Storytelling.
 
 
 <!---
